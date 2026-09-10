@@ -574,10 +574,10 @@ class CrossModalAttention(nn.Module):
         nn.init.zeros_(self.W_k.bias)
         nn.init.zeros_(self.W_v.bias)
 
-    def forward(self, text_feat, image_feat):
-        Q = self.W_q(text_feat).cuda()
-        K = self.W_k(image_feat).cuda()
-        V = self.W_v(image_feat).cuda()
+    def forward(self, image_feat, text_feat):
+        Q = self.W_q(image_feat).cuda()
+        K = self.W_k(text_feat).cuda()
+        V = self.W_v(text_feat).cuda()
 
         attn_scores = torch.bmm(Q.unsqueeze(1), K.unsqueeze(2))
         attn_scores = attn_scores / (self.attn_dim ** 0.5)

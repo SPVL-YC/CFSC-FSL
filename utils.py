@@ -259,7 +259,7 @@ class ImageTextContrastiveLoss(nn.Module):
         z_i = F.normalize(emb_i, dim=1)
         z_j = F.normalize(emb_j, dim=1)
         representations = torch.cat([z_i, z_j], dim=0)
-        similarity_matrix = euclidean_metric(representations, representations)
+        similarity_matrix = torch.matmul(representations, representations.T)
         sim_ij = torch.diag(similarity_matrix, self.batch_size)
         sim_ji = torch.diag(similarity_matrix, -self.batch_size)
         positives = torch.cat([sim_ij, sim_ji], dim=0)

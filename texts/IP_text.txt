@@ -1,0 +1,37 @@
+category_level_text = [
+    "Alfalfa: A type of flowering plant in the pea family, used as forage for livestock. Vegetation-like spectra with high NIR reflectance and relatively uniform field patterns.",
+    "Corn notill: Maize cultivated with zero-tillage techniques, leaving crop residue on the soil surface. Mixed vegetation-residue spectra with heterogeneous and irregular field textures.",
+    "Corn mintill: Corn planted using minimum tillage, disturbing the soil minimally to prepare for planting. Vegetation-dominated spectra with moderate soil influence and relatively regular field patterns.",
+    "Corn: A general term for maize, a major cereal crop used for food, animal feed, and industrial products. Strong vegetation spectra with high NIR reflectance and regular crop-field structures.",
+    "Grass pasture: Areas covered with grasses used for grazing livestock. Vegetation-like spectra with high NIR reflectance and relatively smooth, homogeneous spatial patterns.",
+    "Grass trees: Areas with scattered trees and grass, typical of certain savanna ecosystems. Mixed grass-tree spectral responses with heterogeneous and patchy spatial patterns.",
+    "Grass pasture mowed: Pasture land that has been mowed, often to control growth or prepare for grazing. Weakened vegetation responses with short, uniform, and regular spatial textures.",
+    "Hay windrowed: Hay that has been cut and left in rows (windrows) to dry before being baled. Dry-vegetation spectra with distinctive elongated and repetitive row patterns.",
+    "Oats: A cereal grain grown for its seed, used for animal feed and human food. Vegetation-dominated spectra with high NIR reflectance and relatively regular field patterns.",
+    "Soybean notill: Legumes seeded with soil-conserving practices, minimizing soil disturbance. Mixed vegetation-residue spectra with heterogeneous and irregular field textures.",
+    "Soybean mintill: Soybeans planted with minimal tillage, slightly disturbing the soil. Vegetation-dominated spectra with moderate soil influence and relatively regular field structures.",
+    "Soybean clean: Soybean fields without visible crop residue, likely post-harvest. Cleaner crop-soil spectral responses with relatively smooth and regular field patterns.",
+    "Wheat: A cereal grain widely cultivated for its seed, a staple food in many countries. Strong vegetation spectra with high NIR reflectance and uniform, regular field structures.",
+    "Woods: Fields dominated by trees and shrubs, forming a woodland or forest. Low red and high NIR reflectance with dense and textured canopy patterns.",
+    "Buildings Grass Trees Drives: Areas with a mix of buildings, grassy areas, trees, and roads. Mixed spectral responses with highly heterogeneous and fragmented spatial structures.",
+    "Stone Steel Towers: Structures made of stone or steel, often for industrial or communication purposes. Bright or metallic spectral responses with compact and regular geometric structures."
+]
+
+dataset_level_text = [
+    "Alfalfa: A type of flowering plant in the pea family, used as forage for livestock. Vegetation-like spectra with high NIR reflectance and relatively uniform field patterns,\
+    Corn notill: Maize cultivated with zero-tillage techniques, leaving crop residue on the soil surface. Mixed vegetation-residue spectra with heterogeneous and irregular field textures,\
+    Corn mintill: Corn planted using minimum tillage, disturbing the soil minimally to prepare for planting. Vegetation-dominated spectra with moderate soil influence and relatively regular field patterns,\
+    Corn: A general term for maize, a major cereal crop used for food, animal feed, and industrial products. Strong vegetation spectra with high NIR reflectance and regular crop-field structures,\
+    Grass pasture: Areas covered with grasses used for grazing livestock. Vegetation-like spectra with high NIR reflectance and relatively smooth, homogeneous spatial patterns,\
+    Grass trees: Areas with scattered trees and grass, typical of certain savanna ecosystems. Mixed grass-tree spectral responses with heterogeneous and patchy spatial patterns,\
+    Grass pasture mowed: Pasture land that has been mowed, often to control growth or prepare for grazing. Weakened vegetation responses with short, uniform, and regular spatial textures,\
+    Hay windrowed: Hay that has been cut and left in rows (windrows) to dry before being baled. Dry-vegetation spectra with distinctive elongated and repetitive row patterns,\
+    Oats: A cereal grain grown for its seed, used for animal feed and human food. Vegetation-dominated spectra with high NIR reflectance and relatively regular field patterns,\
+    Soybean notill: Legumes seeded with soil-conserving practices, minimizing soil disturbance. Mixed vegetation-residue spectra with heterogeneous and irregular field textures,\
+    Soybean mintill: Soybeans planted with minimal tillage, slightly disturbing the soil. Vegetation-dominated spectra with moderate soil influence and relatively regular field structures,\
+    Soybean clean: Soybean fields without visible crop residue, likely post-harvest. Cleaner crop-soil spectral responses with relatively smooth and regular field patterns,\
+    Wheat: A cereal grain widely cultivated for its seed, a staple food in many countries. Strong vegetation spectra with high NIR reflectance and uniform, regular field structures,\
+    Woods: Fields dominated by trees and shrubs, forming a woodland or forest. Low red and high NIR reflectance with dense and textured canopy patterns,\
+    Buildings Grass Trees Drives: Areas with a mix of buildings, grassy areas, trees, and roads. Mixed spectral responses with highly heterogeneous and fragmented spatial structures,\
+    Stone Steel Towers: Structures made of stone or steel, often for industrial or communication purposes. Bright or metallic spectral responses with compact and regular geometric structures."
+]

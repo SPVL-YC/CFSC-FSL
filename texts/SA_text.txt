@@ -1,0 +1,37 @@
+category_level_text = [
+    "Brocoli green weeds 1: A kind of green Herbaceous Plant found in broccoli farms. that may affect crop growth. Vegetation-like spectra with high NIR reflectance and relatively compact field patterns.",
+    "Brocoli green weeds 2: Another type of green weed in broccoli fields, different from the first one. Similar vegetation spectra with high NIR reflectance and slightly different local texture patterns.",
+    "Fallow: Land left uncultivated to recover its fertility or to control pests and weeds. Soil-dominated spectra with moderate reflectance and broad, homogeneous field regions.",
+    "Fallow rough plow: Roughly plowed fallow land, with a relatively rough soil surface. Soil-like spectra with strong spatial texture and irregular rough patterns.",
+    "Fallow smooth: Smoothly plowed fallow land, with a more even soil surface. Soil-like spectra with relatively smooth and homogeneous spatial patterns.",
+    "Stubble: The remaining stalks of crops after harvesting, such as wheat or corn residues. Dry-vegetation and soil-mixed spectra with fragmented, textured field patterns.",
+    "Celery: Fields where celery is grown, designated areas for celery cultivation. Vegetation-dominated spectra with high NIR reflectance and regular crop-field structures.",
+    "Grapes untrained: Vineyards where grapevines are growing without training or support. Strong vegetation spectra with heterogeneous and irregular vine patterns.",
+    "Soil vinyard develop: Soil in a developing vineyard, likely undergoing soil improvement processes. Soil-dominated spectra with sparse vegetation influence and irregular field patterns.",
+    "Corn senesced green weeds: Aging corn plants in a field coexisting with green weeds. Mixed senescent-crop and green-vegetation spectra with heterogeneous spatial textures.",
+    "Lettuce romaine 4wk: At the 4-week mark, Romaine lettuce is just beginning to sprout and is in its nascent phase. Weak vegetation responses with visible soil background and sparse, regular planting patterns.",
+    "Lettuce romaine 5wk: When Romaine lettuce reaches 5 weeks, it is halfway through its growth cycle. Vegetation responses with moderately dense and regular crop patterns.",
+    "Lettuce romaine 6wk: By the 6-week point, Romaine lettuce is nearing its full size and ripeness. Strong vegetation spectra with dense and regular field structures.",
+    "Lettuce romaine 7wk: At 7 weeks, Romaine lettuce has reached complete maturity. Vegetation responses with highly dense and homogeneous crop patterns.",
+    "Vinyard untrained: Untrained grapevines in vineyards, growing spontaneously and freely. Vegetation-dominated spectra with irregular, heterogeneous vineyard structures.",
+    "Vinyard vertical trellis: Vineyards with a vertical trellis system where grapevines are trained to grow along supports. Vegetation spectra with distinctive regular and repetitive row-like structures."
+]
+
+dataset_level_text = [
+    "Brocoli green weeds 1: A kind of green Herbaceous Plant found in broccoli farms. that may affect crop growth. Vegetation-like spectra with high NIR reflectance and relatively compact field patterns,\
+    Brocoli green weeds 2: Another type of green weed in broccoli fields, different from the first one. Similar vegetation spectra with high NIR reflectance and slightly different local texture patterns,\
+    Fallow: Land left uncultivated to recover its fertility or to control pests and weeds. Soil-dominated spectra with moderate reflectance and broad, homogeneous field regions,\
+    Fallow rough plow: Roughly plowed fallow land, with a relatively rough soil surface. Soil-like spectra with strong spatial texture and irregular rough patterns,\
+    Fallow smooth: Smoothly plowed fallow land, with a more even soil surface. Soil-like spectra with relatively smooth and homogeneous spatial patterns,\
+    Stubble: The remaining stalks of crops after harvesting, such as wheat or corn residues. Dry-vegetation and soil-mixed spectra with fragmented, textured field patterns,\
+    Celery: Fields where celery is grown, designated areas for celery cultivation. Vegetation-dominated spectra with high NIR reflectance and regular crop-field structures,\
+    Grapes untrained: Vineyards where grapevines are growing without training or support. Strong vegetation spectra with heterogeneous and irregular vine patterns,\
+    Soil vinyard develop: Soil in a developing vineyard, likely undergoing soil improvement processes. Soil-dominated spectra with sparse vegetation influence and irregular field patterns,\
+    Corn senesced green weeds: Aging corn plants in a field coexisting with green weeds. Mixed senescent-crop and green-vegetation spectra with heterogeneous spatial textures,\
+    Lettuce romaine 4wk: At the 4-week mark, Romaine lettuce is just beginning to sprout and is in its nascent phase. Weak vegetation responses with visible soil background and sparse, regular planting patterns,\
+    Lettuce romaine 5wk: When Romaine lettuce reaches 5 weeks, it is halfway through its growth cycle. Vegetation responses with moderately dense and regular crop patterns,\
+    Lettuce romaine 6wk: By the 6-week point, Romaine lettuce is nearing its full size and ripeness. Strong vegetation spectra with dense and regular field structures,\
+    Lettuce romaine 7wk: At 7 weeks, Romaine lettuce has reached complete maturity. Strong vegetation responses with highly dense and homogeneous crop patterns,\
+    Vinyard untrained: Untrained grapevines in vineyards, growing spontaneously and freely. Vegetation-dominated spectra with irregular, heterogeneous vineyard structures,\
+    Vinyard vertical trellis: Vineyards with a vertical trellis system where grapevines are trained to grow along supports. Vegetation spectra with distinctive regular and repetitive row-like structures."
+]

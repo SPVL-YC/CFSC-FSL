@@ -1,0 +1,43 @@
+category_level_text = [
+    "water: Large areas of water bodies, such as lakes, rivers, or oceans. Low reflectance, especially in the NIR, with smooth and homogeneous spatial patterns."，
+    "bare soil school: Bare soil areas found within school premises, potentially from construction or activity fields. Moderate reflectance with compact and relatively regular spatial regions.",
+    "bare soil park: Exposed ground sections in parks, commonly seen in walkways or recreational zones. Moderate soil-like reflectance with locally continuous and irregular spatial patterns.",
+    "bare soil farmland: Uncovered earth patches in agricultural fields, likely due to plowing or fallow land. Moderate-to-high reflectance with large and regular field-like spatial patterns.",
+    "natural plants: Vegetation that grows naturally, such as forests, grasslands, or wild flora. Low red and high NIR reflectance with heterogeneous spatial patterns.",
+    "weeds in farmland: Weeds present in crop fields, often competing with cultivated plants for resources. Vegetation-like spectra with high NIR reflectance and scattered spatial distributions.",
+    "forest: Dense woodland areas, comprising a variety of trees and understory vegetation. Low red and high NIR reflectance with dense and textured canopy patterns.",
+    "grass: Grassy areas, which could be natural grasslands or artificial turf. Vegetation-like spectra with high NIR reflectance and relatively uniform spatial patterns.",
+    "rice field grown: Rice fields in the growth stage, where the rice plants have developed to a certain height. Strong vegetation spectra with high NIR reflectance and regular field structures.",
+    "rice field first stage: The initial stage of rice fields, where rice plants are just beginning to grow. Mixed vegetation-soil/water spectra with regular field boundaries.",
+    "row crops: Crops planted in rows, such as corn, soybeans, or other cultivated plants. Vegetation-dominated spectra with high NIR reflectance and repetitive row patterns.",
+    "plastic house: Greenhouses or hoop houses covered with plastic sheeting for temperature control. Distinctive bright spectral responses with regular geometric spatial patterns.",
+    "manmade non dark: Artificial constructions with a light hue, like white or light-colored buildings. High visible reflectance with sharp and regular geometric patterns.",
+    "manmade dark: Man-made structures that are dark in color, such as black or dark grey buildings. Low overall reflectance with compact and regular spatial structures.",
+    "manmade blue: Constructed edifices coated in azure, potentially indicating specific usage or ownership. Stronger blue-band reflectance with compact and regular roof-like patterns.",
+    "manmade red: Synthetic constructions coated with red paint, which might signify particular functions or affiliations. Stronger red-band reflectance with compact and regular building-like patterns.",
+    "manmade grass: Human-made turf, often used for sports fields or decorative purposes. Uniform spectral responses with highly regular and homogeneous spatial layouts.",
+    "asphalt: Paved surfaces made of asphalt, commonly found in roads or parking lots. Low reflectance with smooth spectral variation and elongated or homogeneous spatial patterns.",
+    "paved ground: Ground covered with paving materials, such as concrete or brick for sidewalks. Moderate reflectance with smooth spectral variation and regular spatial patterns."
+]
+
+dataset_level_text = [
+    "water: Large areas of water bodies, such as lakes, rivers, or oceans. Low reflectance, especially in the NIR, with smooth and homogeneous spatial patterns,\
+    bare soil school: Bare soil areas found within school premises, potentially from construction or activity fields. Moderate reflectance with compact and relatively regular spatial regions,\
+    bare soil park: Exposed ground sections in parks, commonly seen in walkways or recreational zones. Moderate soil-like reflectance with locally continuous and irregular spatial patterns,\
+    bare soil farmland: Uncovered earth patches in agricultural fields, likely due to plowing or fallow land. Moderate-to-high reflectance with large and regular field-like spatial patterns,\
+    natural plants: Vegetation that grows naturally, such as forests, grasslands, or wild flora. Low red and high NIR reflectance with heterogeneous spatial patterns,\
+    weeds in farmland: Weeds present in crop fields, often competing with cultivated plants for resources. Vegetation-like spectra with high NIR reflectance and scattered spatial distributions,\
+    forest: Dense woodland areas, comprising a variety of trees and understory vegetation. Low red and high NIR reflectance with dense and textured canopy patterns,\
+    grass: Grassy areas, which could be natural grasslands or artificial turf. Vegetation-like spectra with high NIR reflectance and relatively uniform spatial patterns,\
+    rice field grown: Rice fields in the growth stage, where the rice plants have developed to a certain height. Strong vegetation spectra with high NIR reflectance and regular field structures,\
+    rice field first stage: The initial stage of rice fields, where rice plants are just beginning to grow. Mixed vegetation-soil/water spectra with regular field boundaries,\
+    row crops: Crops planted in rows, such as corn, soybeans, or other cultivated plants. Vegetation-dominated spectra with high NIR reflectance and repetitive row patterns,\
+    plastic house: Greenhouses or hoop houses covered with plastic sheeting for temperature control. Distinctive bright spectral responses with regular geometric spatial patterns,\
+    manmade non dark: Artificial constructions with a light hue, like white or light-colored buildings. High visible reflectance with sharp and regular geometric patterns,\
+    manmade dark: Man-made structures that are dark in color, such as black or dark grey buildings. Low overall reflectance with compact and regular spatial structures,\
+    manmade blue: Constructed edifices coated in azure, potentially indicating specific usage or ownership. Stronger blue-band reflectance with compact and regular roof-like patterns,\
+    manmade red: Synthetic constructions coated with red paint, which might signify particular functions or affiliations. Stronger red-band reflectance with compact and regular building-like patterns,\
+    manmade grass: Human-made turf, often used for sports fields or decorative purposes. Uniform spectral responses with highly regular and homogeneous spatial layouts,\
+    asphalt: Paved surfaces made of asphalt, commonly found in roads or parking lots. Low reflectance with smooth spectral variation and elongated or homogeneous spatial patterns,\
+    paved ground: Ground covered with paving materials, such as concrete or brick for sidewalks. Moderate reflectance with smooth spectral variation and regular spatial patterns."
+]

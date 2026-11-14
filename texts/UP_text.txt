@@ -1,0 +1,23 @@
+category_level_text = [
+    "Asphalt: A black cementitious material used for paving roads, parking lots, and airport runways. Low reflectance with smooth spectral variation and homogeneous, elongated spatial patterns.",
+    "Meadows: Open areas covered with grass and often wildflowers, typically found in rural or natural settings. Vegetation-like spectra with high NIR reflectance and relatively smooth, homogeneous spatial patterns.",
+    "Gravel: A surface covered with small stones or pebbles, commonly used for driveways and walkways. Moderate reflectance with coarse, heterogeneous spatial textures.",
+    "Trees: Areas dominated by large plants with woody stems and leaves, forming a forest or wooded area. Low red and high NIR reflectance with dense, textured canopy patterns.",
+    "Sheets: Flat, thin layers, possibly referring to metal sheets, plastic sheets, or other similar materials. Relatively bright spectral responses with compact and regular geometric spatial patterns.",
+    "Bare soil: Soil that is exposed without vegetation cover, often seen in construction sites or eroded areas. Moderate reflectance with smooth spectral variation and irregular, continuous spatial regions.",
+    "Bitumen: A sticky, black, and highly viscous liquid or semi-solid form of petroleum used for paving and roofing. Very low reflectance with smooth spectra and compact, homogeneous spatial patterns.",
+    "Bricks: Solid blocks of clay or concrete, usually used as building materials for walls and structures. Moderate-to-high visible reflectance with regular, textured geometric spatial patterns.",
+    "Shadow: Dark areas produced by the obstruction of light, often seen under objects or structures. Very low reflectance across bands with irregular spatial shapes following surrounding objects."
+]
+
+dataset_level_text = [
+    "Asphalt: A black cementitious material used for paving roads, parking lots, and airport runways. Low reflectance with smooth spectral variation and homogeneous, elongated spatial patterns,\
+    Meadows: Open areas covered with grass and often wildflowers, typically found in rural or natural settings. Vegetation-like spectra with high NIR reflectance and relatively smooth, homogeneous spatial patterns,\
+    Gravel: A surface covered with small stones or pebbles, commonly used for driveways and walkways. Moderate reflectance with coarse, heterogeneous spatial textures,\
+    Trees: Areas dominated by large plants with woody stems and leaves, forming a forest or wooded area. Low red and high NIR reflectance with dense, textured canopy patterns,\
+    Sheets: Flat, thin layers, possibly referring to metal sheets, plastic sheets, or other similar materials. Relatively bright spectral responses with compact and regular geometric spatial patterns,\
+    Bare soil: Soil that is exposed without vegetation cover, often seen in construction sites or eroded areas. Moderate reflectance with smooth spectral variation and irregular, continuous spatial regions,\
+    Bitumen: A sticky, black, and highly viscous liquid or semi-solid form of petroleum used for paving and roofing. Very low reflectance with smooth spectra and compact, homogeneous spatial patterns,\
+    Bricks: Solid blocks of clay or concrete, usually used as building materials for walls and structures. Moderate-to-high visible reflectance with regular, textured geometric spatial patterns,\
+    Shadow: Dark areas produced by the obstruction of light, often seen under objects or structures. Very low reflectance across bands with irregular spatial shapes following surrounding objects."
+]

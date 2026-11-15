@@ -24,7 +24,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from matplotlib import pyplot
 from matplotlib.colors import ListedColormap
 import time
-import utils_vtaf as utils
+import utils
 import sys
 from torchvision import transforms
 from vit import Transformer, CrossModalAttention

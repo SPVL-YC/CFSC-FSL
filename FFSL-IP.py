@@ -553,6 +553,8 @@ def cutmix2(data_a, target_a,querys_attention_a,data_b, target_b, querys_attenti
 
     querys_attention_a = querys_attention_a[:, -1, 0:81]
     querys_attention_a = querys_attention_a.squeeze(dim=1).view(-1, 9, 9)
+    querys_attention_b = querys_attention_b[:, -1, 0:81]
+    querys_attention_b = querys_attention_b.squeeze(dim=1).view(-1, 9, 9)
 
     lam = np.random.beta(alpha, alpha)
     lam = max(lam, 1 - lam)

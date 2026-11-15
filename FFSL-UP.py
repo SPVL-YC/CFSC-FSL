@@ -827,7 +827,7 @@ for iDataSet in range(nDataSet):
 
         f_loss_sou = torch.mean(f_loss_sou, axis=0)
         f_loss_1_sou = torch.mean(f_loss_1_sou, axis=0)            
-        f_loss_2_sou = torch.mean(f_loss_1_sou, axis=0)            
+        f_loss_2_sou = torch.mean(f_loss_2_sou, axis=0)            
 
                    
         logit_tar = euclidean_metric(query_features_tar, support_proto_tar)
@@ -840,7 +840,7 @@ for iDataSet in range(nDataSet):
 
         f_loss_tar = torch.mean(f_loss_tar, axis=0)
         f_loss_1_tar = torch.mean(f_loss_1_tar, axis=0)            
-        f_loss_2_tar = torch.mean(f_loss_1_tar, axis=0)            
+        f_loss_2_tar = torch.mean(f_loss_2_tar, axis=0)            
 
                                                       
         text_tokens_sou, text_global_sou, fusion_mask_sou = vit.compose_text_tokens(

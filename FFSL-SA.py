@@ -27,8 +27,8 @@ import time
 import utils_vtaf as utils
 import sys
 from torchvision import transforms
-from vit_vtaf import Transformer, CrossModalAttention
-import vit_vtaf as vit
+from vit import Transformer, CrossModalAttention
+import vit
 
 
 parser = argparse.ArgumentParser(description="Few Shot Visual Recognition")

@@ -120,7 +120,7 @@ labels_tar = [
 ]
 
 labels_sou_all = [
-    "water: Large areas of water bodies, such as lakes, rivers, or oceans. Low reflectance, especially in the NIR, with smooth and homogeneous spatial patterns,\
+    "water: Large areas of water bodies, such as lakes, rivers, or oceans. Low reflectance, with smooth and homogeneous spatial patterns,\
     bare soil school: Bare soil areas found within school premises, potentially from construction or activity fields. Moderate reflectance with compact and relatively regular spatial regions,\
     bare soil park: Exposed ground sections in parks, commonly seen in walkways or recreational zones. Moderate soil-like reflectance with locally continuous and irregular spatial patterns,\
     bare soil farmland: Uncovered earth patches in agricultural fields, likely due to plowing or fallow land. Moderate-to-high reflectance with large and regular field-like spatial patterns,\
